@@ -1,6 +1,6 @@
 # Micah Wallace - Computer Science Portfolio
 
-Welcome! This repository my one-page data analysis portfolio website.
+Welcome! This repository my one-page portfolio website.
 
 ## About This Portfolio
 
