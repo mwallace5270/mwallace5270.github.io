@@ -2,7 +2,7 @@
 
 Welcome! This repository my one-page data analysis portfolio website.
 
-## About This Portfolio Template
+## About This Portfolio
 
 This portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
